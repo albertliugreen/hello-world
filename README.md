@@ -1,2 +1,2 @@
 # hello-world
-This repository is for albertliugreen personal use
+This repository is for my test.
